@@ -30,6 +30,8 @@ int main(void){
 		scanf("%s", pc[i].cModel);
 		printf("Enter the Price of the car: \n");
 		scanf("%s", &pc[i].price);
+		//we have to test the space of pc after this
 	}
+	//test should be here
 	return 0;
 }
